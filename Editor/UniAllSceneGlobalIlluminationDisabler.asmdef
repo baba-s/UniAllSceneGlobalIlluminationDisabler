@@ -1,0 +1,19 @@
+{
+    "name": "UniAllSceneGlobalIlluminationDisabler",
+    "references": [
+        "GUID:eba036c47a627794c8f3aa105dca252f",
+        "GUID:df028802c9a28dd45a4035db3052c761",
+        "GUID:cfa9a37f3f638ac44822b248c6d65b8c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
